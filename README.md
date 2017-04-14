@@ -8,9 +8,9 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 
 ## Getting Started  
 
-* The story of our start [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
-* We use Slack and GitHub as our primary means of organization and communication. Email team [at] datafordemocracy.org for an invite to the team.  
-* Read about our [current projects](#current-projects), get involved [in your city](#city-groups), or check out how you can volunteer [across the community](#across-the-community).
+* The story of [who we are](https://medium.com/citizen-labs/we-are-citizen-labs-394febeaaa3c).  
+* We use Slack and GitHub as our primary means of organization and communication. Join via [Sign Up](http://slackin-citizenlabs.herokuapp.com).  
+* Check out our [active projects](#active-projects), or check out how you can volunteer [across the community](#across-the-community).
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#current-projects).
@@ -22,13 +22,13 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 
 ## Across the Community
 
-While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers. 
+While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers.
 
 ### Storytelling
 All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
 
 ### Infrastructure and IT administration
-We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this! 
+We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this!
 
 ### Matchmaker
 The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. Ping @gecky in Slack if this sounds like fun to you!
@@ -71,11 +71,11 @@ Data for Democracy volunteers are all over the world, and many cities have dedic
 **Channel:** [#city-sandiego](https://datafordemocracy.slack.com/messages/city-sandiego/)
 **Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@ryanes](https://datafordemocracy.slack.com/messages/@raynes/)
 
-There are dozens of city-specific channels in the Slack, so just search for "city-yourcity" (e.g. "city-austin") to find people near you! 
+There are dozens of city-specific channels in the Slack, so just search for "city-yourcity" (e.g. "city-austin") to find people near you!
 
 ---
 
-## Current projects  
+## Active projects  
 We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
 
 ### [Assemble](https://github.com/Data4Democracy/assemble)  

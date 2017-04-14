@@ -1,4 +1,4 @@
-# Citizen Labs
+# Mission
 
 Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
 
@@ -10,7 +10,7 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 
 * The story of [who we are](https://medium.com/citizen-labs/we-are-citizen-labs-394febeaaa3c).  
 * We use Slack and GitHub as our primary means of organization and communication. Join via [Sign Up](http://slackin-citizenlabs.herokuapp.com).  
-* Check out our [active projects](#active-projects), or check out how you can volunteer [across the community](#across-the-community).
+* Check out our [active projects](#active-projects), or how you can [jump in](#contribute).
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#current-projects).
@@ -19,10 +19,6 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * Not sure how to get started? Contact @gecky or @jonathon in the Slack, or check out the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get your feet wet.
 * Want to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to D4D projects and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
 * Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
-
-## Across the Community
-
-While most of our work is [project based](#current-projects), the community is large and vibrant enough that we're looking for common needs across projects that the organization can support. These are ongoing roles that can be time consuming, but are also essential to making the community helpful to our partners and a valuable experience for our volunteers.
 
 ### Storytelling
 All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
@@ -173,7 +169,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ---
 
-## Task digest
+## Contribute
 If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
 * [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
 * [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.

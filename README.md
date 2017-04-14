@@ -1,14 +1,14 @@
-# Data for Democracy
+# Citizen Labs
 
-Data for Democracy's mission is to be an inclusive community for data scientists and technologists to volunteer and collaborate on projects that make a positive impact on society.
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
 
-## Who runs D4D?
+## Citizen Movement?
 
-The community does! Anybody who wants to contribute to making D4D better is **highly** encouraged to do so! Everything in D4D thus far has come from grassroots ideas proposed and pushed forward by a community member just like you and there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
+Our volunteer community runs and drives all Citizen Labs projects! We **highly** encourage all to become involved and contribute. We believe from our neighborhoods to our cities there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
 
 ## Getting Started  
 
-* Read more about our our [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
+* The story of our start [origin story](https://medium.com/data-for-democracy/origin-story-b740f14ca6ed#.psbzqw21y).  
 * We use Slack and GitHub as our primary means of organization and communication. Email team [at] datafordemocracy.org for an invite to the team.  
 * Read about our [current projects](#current-projects), get involved [in your city](#city-groups), or check out how you can volunteer [across the community](#across-the-community).
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  

@@ -16,20 +16,20 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * Not sure which project you want to join? Introduce yourself in [#welcome](https://citizenlabs.slack.com/messages/#welcome/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#active-projects).
 * Have an idea for a new project? Join [#project-ideas](https://citizenlabs.slack.com/messages/#project-ideas/) to start a discussion on a new project.
 * Looking for a certain type of task in any project? Check the [list of issues](#contribute).
-* Not sure how to get started? Contact @allen, @brandon, or @jacebrowning in the Slack, or check out the [#welcome](https://citizenlabs.slack.com/messages/#welcome/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get you started.
-* Peak your interest with our [Open Data Regional Review Portal](https://data.citizenlabs.org), where data can be shared. Contact @allen, @brandon, or @jacebrowning in Slack with questions
+* Not sure how to get started? Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in the Slack, or check out the [#welcome](https://citizenlabs.slack.com/messages/#welcome/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get you started.
+* Peak your interest with our [Open Data Regional Review Portal](https://data.citizenlabs.org), where data can be shared. Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in Slack with questions
 
 ### Storytelling
-Our projects tell stories about our communities, our world, and ourselves. We aim to record these stories [on our blog](https://medium.com/citizen-labs). If you'd like to help with this, ping @brandon in Slack!  
+Our projects tell stories about our communities, our world, and ourselves. We aim to record these stories [on our blog](https://medium.com/citizen-labs). If you'd like to help with this, ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack!  
 
 ### Infrastructure and IT administration
-We're doing this on a per-project basis. Connect with @jacebrowning to dive in further.
+We're doing this on a per-project basis. Connect with [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) to dive in further.
 
 ### Project Leads
-You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project leads create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping @allen or @brandon in Slack if you're interested in leading a project.
+You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project leads create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in leading a project.
 
 ## Active projects  
-We have many projects going in our slack community. Below is a list of some of our more active projects that are actively seeking help.
+Below is a list of some of our projects that are actively seeking help.
 
 ---
 
@@ -53,7 +53,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [River Edge Design Guidelines](https://github.com/Data4Democracy/internal-displacement)
+### [River Edge Design Guidelines](https://github.com/citizenlabsgr/River-Edge-Guidelines)
 **Slack:** [#project-riveredge](https://citizenlabs.slack.com/messages/#project-riveredge/)
 **Project Description:**  
 Design, data collection, visualization project to gain input from citizens regarding design priorities that would be used by the City for the Grand River.
@@ -63,16 +63,8 @@ Design, data collection, visualization project to gain input from citizens regar
 
 ---
 
-### [Open Data Regional Review](https://github.com/Data4Democracy/immigration-connect)
-**Slack:**
-**Project Description:** Collecting, analyzing, and grading the accessibility to open data provided by cities. This tool is used to promote accountability of cities to expand their open data portals.
-
-**Project Leads:**
-
----
-
 ## Contribute
-If you're looking for a certain type of task (e.g. beginner-friendly, data-viz, ) to lead you to a project, try checking the links to issue labels below:
+If you're looking for a certain type of task (e.g. beginner-friendly, data-viz) to lead you to a project, try checking the links to issue labels below:
 * [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
 * [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
 * [bug](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abug&type=Issues): Bug report.

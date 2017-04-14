@@ -13,61 +13,24 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * Check out our [active projects](#active-projects), or how you can [jump in](#contribute).
 * If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
-* Not sure which project you want to join? Introduce yourself in [#general](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#current-projects).
-* Have an idea for a new project? Join [#project-ideas](https://datafordemocracy.slack.com/messages/project-ideas/) to start a discussion on a new project.
-* Looking for a certain type of task in any project? Check the [task digest](#task-digest).
-* Not sure how to get started? Contact @gecky or @jonathon in the Slack, or check out the [#onboarding](https://datafordemocracy.slack.com/messages/onboarding/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get your feet wet.
-* Want to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to D4D projects and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
-* Check out our [data.world](https://data.world) page at [data.world/data4democracy](https://data.world/data4democracy), where data can be shared. See our guide to [get started](https://github.com/Data4Democracy/read-this-first/blob/master/data-world.md). Contact @sya or @gabriela in Slack with questions
+* Not sure which project you want to join? Introduce yourself in [#welcome](https://datafordemocracy.slack.com/messages/general/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#current-projects).
+* Have an idea for a new project? Join [#project-ideas](https://citizenlabs.slack.com/messages/#project-ideas/) to start a discussion on a new project.
+* Looking for a certain type of task in any project? Check the [list of issues](#contribute).
+* Not sure how to get started? Contact @allen, @brandon, or @jacebrowning in the Slack, or check out the [#welcome](https://citizenlabs.slack.com/messages/#welcome/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get you started.
+* Want to pick up some skills before diving in? Check out the [tutorials](https://github.com/Data4Democracy/tutorials) which are all relevant to Citizen Labs and chat about it in [#learning](https://datafordemocracy.slack.com/messages/learning/).
+* Peak your interest with our [Open Data Regional Review Portal](https://data.citizenlabs.org), where data can be shared. Contact @allen, @brandon, or @jacebrowning in Slack with questions
 
 ### Storytelling
 All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
 
 ### Infrastructure and IT administration
-We're doing this on a per-project basis, along with [building tools for data science collaboration](https://github.com/Data4Democracy/docker-scaffolding), and always need help. Ping @aneel or @bstarling in Slack if you're up for helping out with this!
+We're doing this on a per-project basis. Connect with @jacebrowning to dive in further.5432
 
 ### Matchmaker
 The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. Ping @gecky in Slack if this sounds like fun to you!
 
 ### Project Leads
 You've probably noticed that there are a few people in every active project keeping the group on track, taking questions, and helping new folks get settled in -- that's by design. Leading a project can be a big time commitment, but it's hugely valuable to making sure we're doing useful work, and volunteers are getting the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping @jonathon in Slack if you're interested in leading a project.
-
-## City groups
-Data for Democracy volunteers are all over the world, and many cities have dedicated channels in Slack, and even regular in-person meetups to collaborate in person and work on data projects specific to their city or state. This is mostly US-based for now, but that's not on purpose, so feel free to spin up a group where you live! (We're looking at you London, Berlin, Warsaw, Bangalore, Sydney, and...). And of course, if you are in the US, there are probably at least a few D4D-ers where you live, so don't hesitate to start your own city group!
-
-### Boulder
-**Channel:** [#city-boulder](https://datafordemocracy.slack.com/messages/city-boulder/)
-**Leads:** [@sam](https://datafordemocracy.slack.com/messages/@sam/)
-
-### Chicago
-**Channel:** [#city-chicago](https://datafordemocracy.slack.com/messages/city-chicago/)
-**Leads:** [@lillianj](https://datafordemocracy.slack.com/messages/@lillianj/)
-
-### DC
-**Channel:** [#city-dc](https://datafordemocracy.slack.com/messages/city-dc/)
-**Leads:** [@chris_dick](https://datafordemocracy.slack.com/messages/@chris_dick/), [@redoakmark](https://datafordemocracy.slack.com/messages/@redoakmark/)
-
-### Louisville
-**Channel:** [#city-louisville](https://datafordemocracy.slack.com/messages/city-louisville/)
-**Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@rkahne](https://datafordemocracy.slack.com/messages/@rkahne/), [@margeaux](https://datafordemocracy.slack.com/messages/@margeaux/), [@dmattingly](https://datafordemocracy.slack.com/messages/@dmattingly/)
-
-### Los Angeles
-**Channel:** [#city-losangeles](https://datafordemocracy.slack.com/messages/city-losangeles/)
-**Leads:** [@chelsea.ursaner](https://datafordemocracy.slack.com/messages/@chelsea.ursaner/), [@adamdrake](https://datafordemocracy.slack.com/messages/@adamdrake/)
-
-### New York
-**Channel:** [#city-nyc](https://datafordemocracy.slack.com/messages/city-nyc/)
-**Leads:** [@bkey](https://datafordemocracy.slack.com/messages/@bkey/), [@henripal](https://datafordemocracy.slack.com/messages/@henripal/), [@danielah](https://datafordemocracy.slack.com/messages/@danielah), [@ckmarcelus](https://datafordemocracy.slack.com/messages/@ckmarcelus)
-
-### Seattle (**[meetup page](https://www.meetup.com/Data-for-Democracy-Seattle/)**)
-**Channel:** [#city-seattle](https://datafordemocracy.slack.com/messages/city-seattle/)
-**Leads:** [@zachmueller](https://datafordemocracy.slack.com/messages/@zachmueller/), [@grichardson](https://datafordemocracy.slack.com/messages/@grichardson/), [@jtorrez](https://datafordemocracy.slack.com/messages/@jtorrez/)
-
-### San Diego
-**Channel:** [#city-sandiego](https://datafordemocracy.slack.com/messages/city-sandiego/)
-**Leads:** [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/), [@ryanes](https://datafordemocracy.slack.com/messages/@raynes/)
-
-There are dozens of city-specific channels in the Slack, so just search for "city-yourcity" (e.g. "city-austin") to find people near you!
 
 ---
 
@@ -92,7 +55,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [Drug Spending](https://github.com/Data4Democracy/drug-spending)  
+### [Grand Rapids Parks Project](https://github.com/Data4Democracy/drug-spending)  
 **Slack:** [#drug-spending](https://datafordemocracy.slack.com/messages/drug-spending/)  
 **Project Description:** Help the public understand what their tax dollars are going toward. Eg, what % of the eligible population (and/or all Americans) are benefiting from Medicare prescription drug coverage? How many Medicare enrollees are being treated for common/relatable conditions like diabetes, Alzheimer's, or depression? What proportion of Medicare prescription spending is on each of those conditions?
 
@@ -102,7 +65,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [Election Transparency](https://github.com/Data4Democracy/election-transparency)  
+### [Open Budget Grand Rapids](https://github.com/Data4Democracy/election-transparency)  
 **Slack:** [#election-transparency](https://datafordemocracy.slack.com/messages/election-transparency/)
 
 **Project Description:** Aggregating and normalizing county-level election results to be shared with the broader community. This team now has a fantastic dataset that's difficult to obtain. In addition to the ongoing data engineering effort, they could use help from statisticians, political scientists, and anyone ready to analyze this data.
@@ -113,7 +76,7 @@ We have many projects going in our slack community. Below is a list of some of o
 
 ---
 
-### [Refugees](https://github.com/Data4Democracy/internal-displacement)
+### [River Edge Design Guidelines](https://github.com/Data4Democracy/internal-displacement)
 
 **Project Description:**  
 Grouping for projects related to refugees. Our main current project involves classifying, tagging, analyzing and visualizing news events relating to internally displaced people in an attempt to track internal refugee crises across the globe.
@@ -125,18 +88,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ---
 
-### ProPublica  
-**Slack:** [#propublica](https://datafordemocracy.slack.com/messages/propublica/)
-
-**Project Description:** Working on projects to support the non-profit investigative journalism publication, [ProPublica](http://propublica.org). The team's first project is [analyzing campaign spending data](https://github.com/Data4Democracy/campaign_expenditures) and have just started a web scraping/data engineering project around [foreign travel expenditures](https://github.com/Data4Democracy/official-foreign-travel).
-
-**Project Leads:** [@ryanes](https://datafordemocracy.slack.com/messages/@ryanes/) [@eric_bickel](https://datafordemocracy.slack.com/messages/@eric_bickel/)
-
-**Data:** [data.world/data4democracy/propublica](https://data.world/data4democracy/propublica)
-
----
-
-### [USA Dashboard](https://github.com/Data4Democracy/usa-dashboard/issues)  
+### [Open Data Portal](https://github.com/Data4Democracy/usa-dashboard/issues)  
 **Slack:** [#usa-dashboard](https://datafordemocracy.slack.com/messages/usa-dashboard/)
 
 **Project Description:** A dashboard of key metrics for the USA. The team's first KPIs are around city-level crime data.
@@ -145,7 +97,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 
 ---
 
-### [Immigration Connect](https://github.com/Data4Democracy/immigration-connect)
+### [Open Data Regional Review](https://github.com/Data4Democracy/immigration-connect)
 **Project Description:** Collecting, analyzing, and modeling data related to immigration. We're also building tools (visualizations, email parsers, matching algorithms to connect to connect pro bono lawyers with immigrants in need) to support the work of organizations working on immigration law and other immigration related issues.
 
 **Slack:** [#immigration-connect](https://datafordemocracy.slack.com/messages/immigration-connect/)
@@ -170,7 +122,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 ---
 
 ## Contribute
-If you're looking for a certain type of task (e.g. beginner-friendly) to lead you to a project, try checking the links below:
+If you're looking for a certain type of task (e.g. beginner-friendly, data-viz, ) to lead you to a project, try checking the links below:
 * [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
 * [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
 * [bug](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abug&type=Issues): Bug report.

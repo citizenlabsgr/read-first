@@ -21,16 +21,13 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * Peak your interest with our [Open Data Regional Review Portal](https://data.citizenlabs.org), where data can be shared. Contact @allen, @brandon, or @jacebrowning in Slack with questions
 
 ### Storytelling
-All of our projects are doing some interesting data gathering and analysis that we regularly share with the world [on our blog](https://medium.com/data-for-democracy), our [YouTube channel](https://www.youtube.com/channel/UCKPgMFPkopC30c-jrabzoMw), and the [Partially Derivative podcast](http://partiallyderivative.com) ([for example](http://partiallyderivative.com/podcast/2017/03/21/robot-bartender-overlords)). If you'd like to help with this, ping @lillianj in Slack!  
+Our projects tell stories about our communities, our world, and ourselves. We aim to record these stories [on our blog](https://medium.com/data-for-democracy). If you'd like to help with this, ping @brandon in Slack!  
 
 ### Infrastructure and IT administration
-We're doing this on a per-project basis. Connect with @jacebrowning to dive in further.5432
-
-### Matchmaker
-The community has grown to a point where there is a lot of activity and a steady stream of new volunteers, which is awesome! We could use more people who know about the various projects that are happening along with the skills of the incoming volunteers, and can both match people to projects (ideally, to specific tasks), along with routinely surfacing new opportunities to the broader community for folks to get involved at all skill levels. Ping @gecky in Slack if this sounds like fun to you!
+We're doing this on a per-project basis. Connect with @jacebrowning to dive in further.
 
 ### Project Leads
-You've probably noticed that there are a few people in every active project keeping the group on track, taking questions, and helping new folks get settled in -- that's by design. Leading a project can be a big time commitment, but it's hugely valuable to making sure we're doing useful work, and volunteers are getting the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping @jonathon in Slack if you're interested in leading a project.
+You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project leads create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping @allen or @brandon in Slack if you're interested in leading a project.
 
 ---
 
@@ -122,7 +119,7 @@ Grouping for projects related to refugees. Our main current project involves cla
 ---
 
 ## Contribute
-If you're looking for a certain type of task (e.g. beginner-friendly, data-viz, ) to lead you to a project, try checking the links below:
+If you're looking for a certain type of task (e.g. beginner-friendly, data-viz, ) to lead you to a project, try checking the links to issue labels below:
 * [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
 * [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
 * [bug](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abug&type=Issues): Bug report.
@@ -132,6 +129,7 @@ If you're looking for a certain type of task (e.g. beginner-friendly, data-viz, 
 * [documentation](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adocumentation&type=Issues): Request for help with documentation.
 * [enhancement](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aenhancement&type=Issues)
 * [first-pr](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Afirst-pr&type=Issues): For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
+* [sandbox](https://github.com/citizenlabsgr/open-lab) Issues with this tag are connected to our community sandbox for teaching Github, cloning, making a change and creating a pull request.
 * [help wanted](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A"help+wanted"&type=Issues): Catch all label soliciting for help.
 * [modeling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Amodeling&type=Issues): Data modeling, machine learning task.
 * [proposal](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aproposal&type=Issues)

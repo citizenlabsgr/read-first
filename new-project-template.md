@@ -1,17 +1,18 @@
-## Any Old Project:
+## project-name:
 
-**Slack:** #our-channel
+**Slack:** #project-channel
 
 **Project Description:**
 
-**Project Lead:**  
+**Board Sponsor:**
+* For Citizen Labs sponsored projects list board member sponsoring
 
 **Maintainers (people with write access):**
 * Person 1
 * Person 2
 * Person 3
 
-**Data:** [https://data.world/data4democracy/[project-name]](link)   
+**Data:**  
 _Note: Create dataset for project in data.world and link it here._
 
 
@@ -19,7 +20,7 @@ _Note: Create dataset for project in data.world and link it here._
 * We welcome contributions from first timers / leave this out if you're not "beginner friendly"
 * Browse our help wanted issues. See if there is anything that interests you.
 * Core maintainers and project leads are responsible for reviewing and merging all pull requests. In order to prevent frustrations with your first PR we recommend you reach out to our core maintainers who can help you through your first PR.
-* Need to practice working with github in a group setting? Checkout [github-playground](https://github.com/Data4Democracy/github-playground)
+* Need to practice working with github in a group setting? Checkout [our sandbox](https://github.com/citizenlabsgr/open-lab)
 * Updates to documentation or readme are greatly appreciated and make for a great first PR. They do not need to be discussed in advance and will be merged as soon as possible.
 
 

@@ -13,18 +13,17 @@ Never done this before? Great! No previous experience require and the D4D is her
 ### When does a project need a lead?
 Some projects naturally require project leads from the outset - such as those with external partners - but not every project is created equal.
 
-Other times, the need for a lead might emerge over time. Let's say you've been goofing around with your D4D buddies. Someone thought it would be interesting to try to collect and build a pipeline for *\<insert shiny data>*, and you hack something together. The project gains some real momentum and people start piling in to help. Maybe it's time for a leader.
+Other times, the need for a lead might emerge over time. Let's say you've been goofing around with your ideas. Someone thought it would be interesting to try to collect and build a pipeline for *\<insert shiny data>*, and you hack something together. The project gains some real momentum and people start piling in to help. Maybe it's time for a leader.
 
 ### Responsibilities
-Responsibilities that should be 
+Responsibilities that should be
 
-- Setting up a [project README](https://github.com/Data4Democracy/read-this-first/blob/master/new-project-template.md)
+- Setting up a [project README](https://github.com/citizenlabsgr/read-first/new-project-template.md)
 - Coordinating the technical work of the team
 - Managing list of project priorities
 - Communicating the process
-- Identifying tasks for people at various stages of analysis
 - Act as point of contact
-- Communicate with project Facilitator and Ambassador
+- Communicate with project stakeholders
 
 Depending on the exact nature of the project, you might also want to include
 
@@ -35,7 +34,7 @@ Depending on the exact nature of the project, you might also want to include
 The project lead should have administrative level permissions on the GitHub repo.
 
 ### Selecting a project lead
-For projects where an external partner is involved or with specific deliverables, leaders may be appointed by D4D.
+For projects where an external partner is involved or with specific deliverables, leaders may be appointed by Citizen Labs.
 
 
 ##

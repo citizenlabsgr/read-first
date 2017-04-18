@@ -15,7 +15,7 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * Visit project readme for specific instructions on who to contact or how to get started.
 * Not sure which project you want to join? Introduce yourself in [#welcome](https://citizenlabs.slack.com/messages/#welcome/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#active-projects).
 * Have an idea for a new project? Join [#project-ideas](https://citizenlabs.slack.com/messages/#project-ideas/) to start a discussion on a new project.
-* Looking for a certain type of task in any project? Check the [list of issues](#contribute).
+* Looking for a certain type of task in any project? Check the [list of issues](#contribute) or use Waffle to [view the big picture of all projects and open issues.](https://waffle.io/citizenlabsgr/projects)
 * Not sure how to get started? Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in the Slack, or check out the [#welcome](https://citizenlabs.slack.com/messages/#welcome/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get you started.
 * Peak your interest with our [Open Data Regional Review Portal](https://data.citizenlabs.org), where data can be shared. Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in Slack with questions
 
@@ -26,7 +26,7 @@ Our projects tell stories about our communities, our world, and ourselves. We ai
 We're doing this on a per-project basis. Connect with [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) to dive in further.
 
 ### Project Leads
-You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project leads create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in leading a project.
+You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project leads create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Leads typically fill a vacuum through their contributions to the team rather then being voted on or appointed. Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in getting more involved.
 
 ## Active projects  
 Below is a list of some of our projects that are actively seeking help.

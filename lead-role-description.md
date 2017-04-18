@@ -5,9 +5,11 @@
 Some guidelines about creating and taking on the role of project lead.
 
 ## Role Description
-The project lead is designed to be a single main point of contact for a project. They are responsible for coordinating the technical direction of a project and its team, and ensuring that it meets its goals. The tasks involved can range in scope, and can be as self-contained as asking for a specific formatting of data or as wide-ranging as hunting down entire datasets to be analyzed. Think of this role as equivalent to "Manager of Data Science" or "Lead/Senior Data Scientist".
+The project lead provides the single main point of contact for a project to people inside and outside of the project. Leads are more cheerleader then task master. Remember, that the people who work on projects are volunteers that choose which project they make contributions. While leads may coordinate the direction of a project and its team, they also have a responsibility to those who volunteer their time for the specific project and recruit other that may be valuable to the project.
 
-Never done this before? Great! No previous experience require and the D4D is here to help out.
+The tasks involved can range in scope, and can be as self-contained as asking for a specific formatting of data or as wide-ranging as hunting down entire datasets to be analyzed. Think of this role as equivalent to "Manager of Data Science" or "Lead/Senior Data Scientist".
+
+Never done this before? Great! No previous experience require and the Citizen Labs is here to help out.
 
 ## Role Guidelines
 ### When does a project need a lead?

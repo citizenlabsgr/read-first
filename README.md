@@ -65,21 +65,20 @@ Design, data collection, visualization project to gain input from citizens regar
 
 ## Contribute
 If you're looking for a certain type of task (e.g. beginner-friendly, data-viz) to lead you to a project, try checking the links to issue labels below:
-* [analysis](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aanalysis&type=Issues): Analysis questions, ranging from basic, exploratory questions to more complex questions.
-* [beginner-friendly](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abeginner-friendly&type=Issues): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
-* [bug](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Abug&type=Issues): Bug report.
-* [data-collection](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata-collection&type=Issues): Data collection task.
-* [data-viz](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adata-viz&type=Issues): Data visualization task.
-* [discussion](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adiscussion&type=Issues): Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
-* [documentation](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Adocumentation&type=Issues): Request for help with documentation.
-* [enhancement](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aenhancement&type=Issues)
-* [first-pr](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Afirst-pr&type=Issues): For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
-* [sandbox](https://github.com/citizenlabsgr/open-lab) Issues with this tag are connected to our community sandbox for teaching Github, cloning, making a change and creating a pull request.
-* [help wanted](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3A"help+wanted"&type=Issues): Catch all label soliciting for help.
-* [proposal](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aproposal&type=Issues)
-* [question](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Aquestion&type=Issues)
-* [status-blocked](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-blocked&type=Issues): Not ready for development.
-* [status-dev-ready](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-dev-ready&type=Issues): Development task that is fully defined and ready to start.
-* [status-in-progress](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-in-progress&type=Issues): Someone is actively working on this issue. Please reach out to the person assigned this issue if you would like to contribute.
-* [status-needs-grooming](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astatus-needs-grooming&type=Issues): Issue is not fully defined. Either the person who opened the issue is not sure how to proceed or did not have time to complete. Indicates further research will be required to determine best path forward.
-* [storytelling](https://github.com/search?q=org%3AData4Democracy+is%3Aopen+label%3Astorytelling&type=Issues): Need help crafting a story. Writing assignment.
+* [analysis](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3A%22analysis%22): Analysis questions, ranging from basic, exploratory questions to more complex questions.
+* [beginner-friendly](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Abeginner-friendly+): Good for people new to the project or technology stack used by the project. If you are experienced we encourage you not to claim these issues but instead post in comments offering to mentor a new person.
+* [bug](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Abug+): Bug report.
+* [data-collection](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adata-collection+): Data collection task.
+* [data-viz](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adata-viz): Data visualization task.
+* [discussion](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adiscussion+): Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
+* [documentation](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adocumentation): Request for help with documentation.
+* [enhancement](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aenhancement+)
+* [first-pr](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Afirst-pr): For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
+* [sandbox](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Asandbox) Issues with this tag are connected to our community sandbox for teaching Github, cloning, making a change and creating a pull request.
+* [help wanted](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3A%22help+wanted%22): Catch all label soliciting for help.
+* [proposal](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aproposal)
+* [question](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aquestion)
+* [status-blocked](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Astatus-blocked): Not ready for development.
+* [status-ready](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aready): Development task that is fully defined and ready to start.
+* [status-in-progress](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3A%22in+progress%22): Someone is actively working on this issue. Please reach out to the person assigned this issue if you would like to contribute.
+* [storytelling](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Astorytelling): Need help crafting a story. Writing assignment.

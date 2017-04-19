@@ -72,12 +72,12 @@ If you're looking for a certain type of task (e.g. beginner-friendly, data-viz) 
 * [data-viz](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adata-viz): Data visualization task.
 * [discussion](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adiscussion+): Indicates this issue is a public discussion but may not necessarily have a specific task associated to it.
 * [documentation](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Adocumentation): Request for help with documentation.
-* [enhancement](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aenhancement+)
+* [enhancement](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aenhancement+): Make everything better.
 * [first-pr](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Afirst-pr): For first timers only. Issues with this label are meant to be a digestible to help people get up to speed with cloning the repository, making a change and creating a pull request. Please do not claim this issue unless it is your first pull request for this project.
-* [sandbox](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Asandbox) Issues with this tag are connected to our community sandbox for teaching Github, cloning, making a change and creating a pull request.
+* [sandbox](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Asandbox): Issues with this tag are connected to our community sandbox for teaching Github, cloning, making a change and creating a pull request.
 * [help wanted](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3A%22help+wanted%22): Catch all label soliciting for help.
-* [proposal](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aproposal)
-* [question](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aquestion)
+* [proposal](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aproposal): Propose a project or idea.
+* [question](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aquestion): Running into something you want to ask around about! Use a question label.
 * [status-blocked](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Astatus-blocked): Not ready for development.
 * [status-ready](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3Aready): Development task that is fully defined and ready to start.
 * [status-in-progress](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acitizenlabsgr+label%3A%22in+progress%22): Someone is actively working on this issue. Please reach out to the person assigned this issue if you would like to contribute.

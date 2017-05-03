@@ -1,12 +1,12 @@
 ## Project Ambassador
 
-Ambassadors are members who support our project leads and maintainers to make sure the project is welcoming and well documented. They are on the front line helping new members determine if a specific project is a good fit for them. This is a great position for people who want to take on an expanded role but are still new enough they are able to identify roadblocks for newcomers that others may not notice.
+Ambassadors are members who support our project guides and maintainers to make sure the project is welcoming and well documented. They are on the front line helping new members determine if a specific project is a good fit for them. This is a great position for people who want to take on an expanded role but are still new enough they are able to identify roadblocks for newcomers that others may not notice.
 
 #### Opportunities:
 * Build deeper relationships with project team.
 * Participate in discussions to determine project direction and focus.
 * Hone your communication, collaboration and development skills.
-* Prepare for a role as a project lead.
+* Prepare for a role as a project guide.
 
 #### Responsibilities:
 * Able to commit at least 2-3 hours a week (on average) to the project.
@@ -19,6 +19,6 @@ Ambassadors are members who support our project leads and maintainers to make su
 * Be patient, kind and welcoming.
 
 #### First tasks:
-* Work with project lead to make the announcement in Slack, let people know they can reach out to you.
+* Work with project guide to make the announcement in Slack, let people know they can reach out to you.
 * Add yourself to the project readme.
 * Start engaging with newcomers.

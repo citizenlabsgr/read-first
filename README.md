@@ -1,6 +1,6 @@
 # Mission
 
-Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leadership to create data-driven solutions.
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community guideership to create data-driven solutions.
 
 ## Citizen Movement?
 
@@ -11,9 +11,9 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * The story of [who we are](https://medium.com/citizen-labs/we-are-citizen-labs-394febeaaa3c).  
 * We use Slack and GitHub as our primary means of organization and communication. Join via [Sign Up](http://slackin-citizenlabs.herokuapp.com).  
 * Check out our [active projects](#active-projects), or how you can [jump in](#contribute).
-* If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project lead(s).  
+* If you see a project you are interested in, join the project Slack channel, introduce yourself to the community and the project guide(s).  
 * Visit project readme for specific instructions on who to contact or how to get started.
-* Not sure which project you want to join? Introduce yourself in [#welcome](https://citizenlabs.slack.com/messages/#welcome/). Talk to a few project leads, let them know what you are interested in. Project leads can help you determine if a project is a good fit for you. The leads for each project are listed are [listed below](#active-projects).
+* Not sure which project you want to join? Introduce yourself in [#welcome](https://citizenlabs.slack.com/messages/#welcome/). Talk to a few project guides, let them know what you are interested in. Project guides can help you determine if a project is a good fit for you. The guides for each project are listed are [listed below](#active-projects).
 * Have an idea for a new project? Join [#project-ideas](https://citizenlabs.slack.com/messages/#project-ideas/) to start a discussion on a new project.
 * Looking for a certain type of task in any project? Check the [list of issues](#contribute).
 * Not sure how to get started? Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in the Slack, or check out the [#welcome](https://citizenlabs.slack.com/messages/#welcome/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get you started.
@@ -25,8 +25,8 @@ Our projects tell stories about our communities, our world, and ourselves. We ai
 ### Infrastructure and IT administration
 We're doing this on a per-project basis. Connect with [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) to dive in further.
 
-### Project Leads
-You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project leads create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in leading a project.
+### Project Guides
+You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project guides create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in guiding a project.
 
 ## Active projects  
 Below is a list of some of our projects that are actively seeking help.
@@ -37,7 +37,7 @@ Below is a list of some of our projects that are actively seeking help.
 **Slack:** [#project-grparks](https://citizenlabs.slack.com/messages/#project-grparks/)  
 **Project Description:** Have you ever wondered how your tax dollars affects the parks we use in Grand Rapids? GR Parks Projects joins parks millage data with OpenStreetMap to bring a simple to use transparent visualization for citizens.  
 
-**Project Leads:** [@joel6653](https://citizenlabs.slack.com/messages/@joel6653/)
+**Project Guides:** [@joel6653](https://citizenlabs.slack.com/messages/@joel6653/)
 
 **Data:** [Grand Rapids Open Data Portal](http://data.grcity.us/dataset/grand-rapids-parks-millage)
 
@@ -47,7 +47,7 @@ Below is a list of some of our projects that are actively seeking help.
 **Slack:** [#project-openbudgetgr](https://citizenlabs.slack.com/messages/#project-openbudgetgr/)
 **Project Description:** Aggregating and normalizing county-level election results to be shared with the broader community. This team now has a fantastic dataset that's difficult to obtain. In addition to the ongoing data engineering effort, they could use help from statisticians, political scientists, and anyone ready to analyze this data.
 
-**Project Leads:** [@allen](https://citizenlabs.slack.com/messages/@allen/)
+**Project Guides:** [@allen](https://citizenlabs.slack.com/messages/@allen/)
 
 **Data:** [Grand Rapids Open Data Portal](http://data.grcity.us)
 
@@ -58,7 +58,7 @@ Below is a list of some of our projects that are actively seeking help.
 **Project Description:**  
 Design, data collection, visualization project to gain input from citizens regarding design priorities that would be used by the City for the Grand River.
 
-**Project Lead:**
+**Project Guide:**
 [@brandon](https://citizenlabs.slack.com/messages/@brandon/)
 
 ---

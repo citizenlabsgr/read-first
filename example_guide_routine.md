@@ -1,9 +1,9 @@
 ---
-title: "Example Routine for Project Leads"
+title: "Example Routine for Project Guides"
 output: html_notebook
 ---
 
-_If you haven't yet, be sure to check out the [`read-first`](https://github.com/citizenlabsgr/read-first) repo and in particular the [lead role description](https://github.com/Data4Democracy/read-this-first/blob/master/lead-role-description.md)._
+_If you haven't yet, be sure to check out the [`read-first`](https://github.com/citizenlabsgr/read-first) repo and in particular the [guide role description](https://github.com/Data4Democracy/read-this-first/blob/master/guide-role-description.md)._
 
 You may find that using a predetermined process helps with consistency and saves precious cognitive energy for more doing and less thinking. This is meant to be an example and a starting point for anyone to take and revise to their heart's content. -@RyanEs
 
@@ -22,4 +22,4 @@ You may find that using a predetermined process helps with consistency and saves
 
 ### Monthly
 
-* Ask: Is my lead routine *both* sustainable and helpful to others? If not, time to revise!
+* Ask: Is my routine as guide *both* sustainable and helpful to others? If not, time to revise!

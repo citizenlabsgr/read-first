@@ -1,9 +1,9 @@
 ## Project Maintainer
 
-Maintainers are members who support our project leads to review all code being submitted to our repositories. Maintainers may work across projects or specialize on a single project. They are available in Slack to answer questions and help people with pull requests.
+Maintainers are members who support our project guides to review all code being submitted to our repositories. Maintainers may work across projects or specialize on a single project. They are available in Slack to answer questions and help people with pull requests.
 
 Guiding philosophy taken from our readme:
-* **We believe good code is reviewed code.** All commits to this repository are approved by project maintainers and/or leads. The goal here is *not* to criticize or judge your abilities! Rather, we aim to share insights and achievements. Code reviews help us continually refine the project's scope and direction, as well as encourage the discussion we need for it to thrive.
+* **We believe good code is reviewed code.** All commits to this repository are approved by project maintainers and/or guides. The goal here is *not* to criticize or judge your abilities! Rather, we aim to share insights and achievements. Code reviews help us continually refine the project's scope and direction, as well as encourage the discussion we need for it to thrive.
 
 #### Opportunities:
 * Build deeper relationships with project team.
@@ -21,6 +21,6 @@ Guiding philosophy taken from our readme:
 * Be patient, kind and welcoming.
 
 #### First tasks:
-* Work with project lead to make the announcement in Slack, let people know they can reach out to you.
+* Work with project guide to make the announcement in Slack, let people know they can reach out to you.
 * Add yourself to the project readme.
-* Start reviewing pull requests & grooming issues. 
+* Start reviewing pull requests & grooming issues.

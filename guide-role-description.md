@@ -9,7 +9,7 @@ The project guide provides the single main point of contact for a project to peo
 
 The tasks involved can range in scope, and can be as self-contained as asking for a specific formatting of data or as wide-ranging as hunting down entire datasets to be analyzed. Think of this role as equivalent to "Manager of Data Science" or "Lead/Senior Data Scientist".
 
-Never done this before? Great! No previous experience require and the Citizen Labs is here to help out.
+Never done this before? Great! No previous experience required and we are here to help out.
 
 ## Role Guidelines
 ### When does a project need a guide?

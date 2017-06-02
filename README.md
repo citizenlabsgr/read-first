@@ -34,7 +34,7 @@ Below is a list of some of our projects that are actively seeking help.
 ---
 
 ### [Grand Rapids Parks Project](https://github.com/citizenlabsgr/grparks)  
-**Slack:** [#project-grparks](https://citizenlabs.slack.com/messages/#project-grparks/)  
+**Slack:** [#project-datacensus](https://citizenlabs.slack.com/messages/#project-grparks/)  
 **Project Description:** Have you ever wondered how your tax dollars affects the parks we use in Grand Rapids? GR Parks Projects joins parks millage data with OpenStreetMap to bring a simple to use transparent visualization for citizens.  
 
 **Project Guides:** [@joel6653](https://citizenlabs.slack.com/messages/@joel6653/)
@@ -43,6 +43,15 @@ Below is a list of some of our projects that are actively seeking help.
 
 ---
 
+### [Grand Rapids - US City Open Data Census](https://github.com/citizenlabsgr/data-census)  
+**Slack:** [#project-grparks](https://citizenlabs.slack.com/messages/#project-datacensus)  
+**Project Description:** This project will update the City of Grand Rapids' entry in the US City Open Data Census. Grand Rapids is currently ranked 81st in the country and has not been updated since 2014.  
+
+**Project Guides:** [@allen](https://citizenlabs.slack.com/messages/@allen/)
+
+**Data:** [Grand Rapids Open Data Portal](http://data.grcity.us)
+
+---
 ### [Open Budget Grand Rapids](http://openbudgetgr.org)  
 **Slack:** [#project-openbudgetgr](https://citizenlabs.slack.com/messages/#project-openbudgetgr/)
 **Project Description:** Aggregating and normalizing county-level election results to be shared with the broader community. This team now has a fantastic dataset that's difficult to obtain. In addition to the ongoing data engineering effort, they could use help from statisticians, political scientists, and anyone ready to analyze this data.

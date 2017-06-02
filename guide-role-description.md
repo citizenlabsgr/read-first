@@ -33,6 +33,7 @@ Depending on the exact nature of the project, you might also want to include
 
 
 ### GitHub Privilege
+
 The project guide should have administrative level permissions on the GitHub repo.
 
 ### Selecting a project guide
@@ -41,5 +42,7 @@ For projects where an external partner is involved or with specific deliverables
 
 ##
 
+
 ### Tips for Project Guides
+
 *To be filled by members*

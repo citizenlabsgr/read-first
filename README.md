@@ -1,6 +1,6 @@
 # Mission
 
-Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community guideership to create data-driven solutions.
+Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community leaderership to create data-driven solutions.
 
 ## Citizen Movement?
 

@@ -1,5 +1,5 @@
 ---
-title: "Example Routine for Project Leads"
+title: "Example Routine for Project Guide"
 output: html_notebook
 ---
 
@@ -22,4 +22,4 @@ You may find that using a predetermined process helps with consistency and saves
 
 ### Monthly
 
-* Ask: Is my lead routine *both* sustainable and helpful to others? If not, time to revise!
+* Ask: Is my guide routine *both* sustainable and helpful to others? If not, time to revise!

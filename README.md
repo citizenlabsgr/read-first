@@ -2,11 +2,11 @@
 
 Citizen Labs works together with our entire community to promote transparency, better understand problems, and support informed decisions. We apply open data and open source technology, convene civic volunteers, and engage community guideership to create data-driven solutions.
 
-## Citizen Movement?
+### Citizen Movement?
 
 Our volunteer community runs and drives all Citizen Labs projects! We **highly** encourage all to become involved and contribute. We believe from our neighborhoods to our cities there's always more room for improvement. Whether it's starting a new project or proposing a new tool for the community to use, don't hesitate to just go for it!
 
-## Getting Started  
+### Getting Started  
 
 * The story of [who we are](https://medium.com/citizen-labs/we-are-citizen-labs-394febeaaa3c).  
 * We use Slack and GitHub as our primary means of organization and communication. Join via [Sign Up](http://slackin-citizenlabs.herokuapp.com).  
@@ -19,14 +19,27 @@ Our volunteer community runs and drives all Citizen Labs projects! We **highly**
 * Not sure how to get started? Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in the Slack, or check out the [#welcome](https://citizenlabs.slack.com/messages/#welcome/) channel, and we'll help you out. Also check out [#micro-projects](https://datafordemocracy.slack.com/messages/micro-projects/) for quick projects that'll help you get you started.
 * Peak your interest with our [Open Data Regional Review Portal](https://data.citizenlabs.org), where data can be shared. Contact [@allen](https://citizenlabs.slack.com/messages/@allen/), [@brandon](https://citizenlabs.slack.com/messages/@brandon/), or [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) in Slack with questions
 
+### Starting a New Project
+Congratulations! You have a great idea for a project. Here are a couple of things that will help you and others that want to contribute to your project.
+* Issue Tag [Style Guide](issue-tag-styleguide.md)
+* Template for [README.md](new-project-template.md)
+
+### Project Roles
+You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project guides, ambassadors, and maintainers create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic!
+
+Below are the descriptions of these common roles:
+
+* [Guide](guide-role-description.md)
+* [Ambassador](project-ambassador.md)
+* [Maintainer](project-maintainer.md)
+
+Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in guiding a project.
+
 ### Storytelling
 Our projects tell stories about our communities, our world, and ourselves. We aim to record these stories [on our blog](https://medium.com/citizen-labs). If you'd like to help with this, ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack!  
 
 ### Infrastructure and IT administration
 We're doing this on a per-project basis. Connect with [@jacebrowning](https://citizenlabs.slack.com/messages/@jacebrowning/) to dive in further.
-
-### Project Guides
-You've probably noticed that there are a few people in every active project taking questions, and helping new folks get settled in. Project guides create value by deeply understanding the project and helping volunteers to get the most out of volunteering. You don't need to be super technical, just organized and enthusiastic! Ping [@allen](https://citizenlabs.slack.com/messages/@allen/) or [@brandon](https://citizenlabs.slack.com/messages/@brandon/) in Slack if you're interested in guiding a project.
 
 ## Active projects  
 Below is a list of some of our projects that are actively seeking help.

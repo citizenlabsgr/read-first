@@ -3,6 +3,8 @@
 
 We group labels by color, according to broad themes. Labels are consistent across repositories, except for a few language specific topics. This makes switching between projects easy, since you don’t need domain expertise in order to write an issue. New team members can learn the system once, and use it everywhere.
 
+See [spreadsheet with colors.](https://docs.google.com/spreadsheets/d/1Uuf5trhhKNyhXAZgCNyXmAxTC9LhAD0WCQY4Royjel0/edit?usp=sharing)
+
 | Label Group  |       Color hex     | Labels  |
 | ------------- |:-------------:| -----:|
 | Experience     | #c5ecf9 | beginner |

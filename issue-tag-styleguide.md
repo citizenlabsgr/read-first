@@ -1,3 +1,4 @@
+*Update: Labels are now managed at the organization level for all new repositories, constent with the following guide.
 
 # Label Grouping
 
